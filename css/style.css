@@ -109,13 +109,14 @@ h3 {
 	height: 100%;
 }
 #investors div img {
-	width: 15%;
+	width: 10%;
 }
 /************************ Media Queries *************************/
 @media screen and (max-width: 1000px) {
 	body {
 		padding: 2vh;
 	}
+
 	h1 {
 		font-size: 3.5rem;
 	}
